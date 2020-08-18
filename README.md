@@ -18,4 +18,4 @@ The objective of this app is to make a e-commerce application which uses provide
 
 <!-- ![Shop App](https://github.com/namanjain300/Shop-app-flutter/blob/master/shop_app_flutter_demo.gif) -->
 
-<img src="https://github.com/namanjain300/Shop-app-flutter/blob/master/shop_app_flutter_demo.gif" width="320" height="540" />
+<img src="https://github.com/namanjain300/Shop-app-flutter/blob/master/shop_app_flutter_demo.gif" width="300" height="540" />
