@@ -14,6 +14,8 @@ The objective of this app is to make a e-commerce application which uses provide
 - Order directly from cart
 - View Completed Orders from orders screen
 
-## Look & Feed of App
+## Look & Feel of App
 
-![Shop App](https://github.com/namanjain300/Shop-app-flutter/blob/master/shop_app_flutter_demo.gif)
+<!-- ![Shop App](https://github.com/namanjain300/Shop-app-flutter/blob/master/shop_app_flutter_demo.gif) -->
+
+<img src="https://github.com/namanjain300/Shop-app-flutter/blob/master/shop_app_flutter_demo.gif" width="360" height="720" />
